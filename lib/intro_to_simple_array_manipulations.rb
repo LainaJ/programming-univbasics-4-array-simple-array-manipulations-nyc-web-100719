@@ -26,4 +26,3 @@ end
 
 def using_uniq
 end
-
